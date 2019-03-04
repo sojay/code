@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "remotecodes",
+			"name": "remotecodes"
+		},
+		{
+			"path": "python projects/code/remotecodes",
+			"name": "remotecodes"
+		}
+	],
+	"settings": {}
+}
